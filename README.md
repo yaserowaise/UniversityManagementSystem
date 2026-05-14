@@ -105,29 +105,6 @@ Copyright © 2026 Yaser. All rights reserved.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Protection Against Unauthorized Use
-
-When uploading to GitHub, consider these practices to protect your work:
-
-1. **Choose a clear license** — The MIT License included in this project defines what others can and cannot do with the code.
-
-2. **Add a `README` badge** — Use GitHub badges to display the license type prominently at the top of this file.
-
-3. **Use GitHub's "Releases" feature** — Tag stable versions so there is a clear release history with timestamps.
-
-4. **Keep the copyright notice in source headers** — All source files in this project include a copyright header identifying Yaser as the developer. Do not remove these.
-
-5. **Enable GitHub security features** — Under repository Settings > Security, enable Dependabot alerts and push protection.
-
-6. **Add a `SECURITY.md` file** — Explain how you want to be contacted about security issues.
-
-7. **Monitor forks** — GitHub's Insights > Forks page lets you see who has forked the repository.
-
-8. **Watermark your work** — In a console project like this, the startup banner and About screen display the developer name as a visible watermark.
-
-9. **Use Git tags** — Tag commits with version numbers (`git tag v1.0.0`) to create a verifiable chain of ownership.
-
-10. **Register the copyright** — For additional legal protection in some jurisdictions, consider registering the copyright officially.
 
 ## Data File Format
 
